@@ -1,0 +1,14 @@
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\CleverDevices\CleverDevicesTest\bin\Debug\StacksAndStringsTests.dll
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\CleverDevices\CleverDevicesTest\bin\Debug\StacksAndStringsTests.pdb
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\CleverDevices\CleverDevicesTest\bin\Debug\StacksAndStrings.exe
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\CleverDevices\CleverDevicesTest\bin\Debug\StacksAndStrings.pdb
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\CleverDevices\CleverDevicesTest\obj\Debug\StacksAndStringsTests.csprojResolveAssemblyReference.cache
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\CleverDevices\CleverDevicesTest\obj\Debug\StacksAndStringsTests.dll
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\CleverDevices\CleverDevicesTest\obj\Debug\StacksAndStringsTests.pdb
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\CleverDevices\StacksAndStringsTests\bin\Debug\StacksAndStringsTests.dll
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\CleverDevices\StacksAndStringsTests\bin\Debug\StacksAndStringsTests.pdb
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\CleverDevices\StacksAndStringsTests\bin\Debug\StacksAndStrings.exe
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\CleverDevices\StacksAndStringsTests\bin\Debug\StacksAndStrings.pdb
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\CleverDevices\StacksAndStringsTests\obj\Debug\StacksAndStringsTests.csprojResolveAssemblyReference.cache
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\CleverDevices\StacksAndStringsTests\obj\Debug\StacksAndStringsTests.dll
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\CleverDevices\StacksAndStringsTests\obj\Debug\StacksAndStringsTests.pdb

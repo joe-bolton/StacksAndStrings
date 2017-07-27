@@ -1,0 +1,8 @@
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\CleverDevices\CleverDevices\bin\Debug\StacksAndStrings.exe.config
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\CleverDevices\CleverDevices\bin\Debug\StacksAndStrings.exe
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\CleverDevices\CleverDevices\bin\Debug\StacksAndStrings.pdb
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\CleverDevices\CleverDevices\obj\Debug\StacksAndStrings.exe
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\CleverDevices\CleverDevices\obj\Debug\StacksAndStrings.pdb
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\CleverDevices\StacksAndStrings\bin\Debug\StacksAndStrings.exe.config
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\CleverDevices\StacksAndStrings\obj\Debug\StacksAndStrings.exe
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\CleverDevices\StacksAndStrings\obj\Debug\StacksAndStrings.pdb

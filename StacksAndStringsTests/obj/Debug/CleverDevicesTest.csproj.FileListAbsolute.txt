@@ -1,0 +1,7 @@
+c:\users\joe\documents\visual studio 2013\Projects\CleverDevices\CleverDevicesTest\bin\Debug\CleverDevicesTest.dll
+c:\users\joe\documents\visual studio 2013\Projects\CleverDevices\CleverDevicesTest\bin\Debug\CleverDevicesTest.pdb
+c:\users\joe\documents\visual studio 2013\Projects\CleverDevices\CleverDevicesTest\obj\Debug\CleverDevicesTest.csprojResolveAssemblyReference.cache
+c:\users\joe\documents\visual studio 2013\Projects\CleverDevices\CleverDevicesTest\obj\Debug\CleverDevicesTest.dll
+c:\users\joe\documents\visual studio 2013\Projects\CleverDevices\CleverDevicesTest\obj\Debug\CleverDevicesTest.pdb
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\CleverDevices\CleverDevicesTest\bin\Debug\CleverDevices.exe
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\CleverDevices\CleverDevicesTest\bin\Debug\CleverDevices.pdb
