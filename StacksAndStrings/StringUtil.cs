@@ -79,13 +79,16 @@ namespace StacksAndStrings
 
             foreach (var c1 in s1)
             {
+                if (matches.Contains(c1))
+                    continue;
+
                 for (var i = 0; i < s2.Length; i++)
                 {
                     var c2 = s2[i];
 
                     if (c1 == c2)
                     {
-                        matches.Add(c1); // prevent duplicate chars
+                        matches.Add(c1);
                         s2.Remove(i);   // limit duplicate comparisons
                         break;
                     }
